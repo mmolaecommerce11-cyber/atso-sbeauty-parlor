@@ -35,7 +35,7 @@ function Services() {
               </span>
 
               <a
-                href="https://wa.me/27791238364"
+                href="https://wa.me/27792461252"
                 target="_blank"
                 rel="noreferrer"
               >

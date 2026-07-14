@@ -49,7 +49,7 @@ function Home() {
             <div className="hero-buttons">
 
               <a
-                href="https://wa.me/27791238364"
+                href="https://wa.me/27792461252"
                 target="_blank"
                 rel="noreferrer"
               >
@@ -138,7 +138,7 @@ function Home() {
         </p>
 
         <a
-          href="https://wa.me/27791238364"
+          href="https://wa.me/27792461252"
           target="_blank"
           rel="noreferrer"
         >

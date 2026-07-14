@@ -39,7 +39,7 @@ function Footer() {
 
           <p>
             <FaPhoneAlt />
-            079 123 8364
+            079 246 1252
           </p>
 
           <p>
@@ -57,7 +57,7 @@ function Footer() {
           <div className="social-icons">
 
             <a
-              href="https://wa.me/27791238364"
+              href="https://wa.me/27792461252"
               target="_blank"
             >
               <FaWhatsapp />
